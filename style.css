@@ -1,7 +1,6 @@
 body {
     background: black;
 }
-
 .clock {
     /* position: absolute; */
     color: whitesmoke;
@@ -9,6 +8,6 @@ body {
     letter-spacing: 10px;
     padding-top: 100px;
     padding-right: 30px;
-    padding-left: 500px;
+    padding-left: 300px;
     font-family: Impact;
 }
