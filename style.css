@@ -1,13 +1,26 @@
-body {
+/* body {
     background: black;
 }
+
 .clock {
-    /* position: absolute; */
+    position: absolute;
     color: whitesmoke;
     font-size: 40px;
     letter-spacing: 10px;
     padding-top: 100px;
     padding-right: 30px;
-    padding-left: 300px;
+    padding-left: 500px;
     font-family: Impact;
+} */
+
+
+.clock {
+color : whitesmoke;
+font-size: 40px;
+font-family: impact;
+}
+body{
+    background-color: black;
+    border: solid black;
+    border-radius: 20px;
 }
