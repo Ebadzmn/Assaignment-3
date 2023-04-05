@@ -5,7 +5,7 @@ body {
 }
 
 .clock {
-    position: absolute;
+    /* position: absolute; */
     color: whitesmoke;
     font-size: 40px;
     letter-spacing: 10px;
