@@ -1,0 +1,16 @@
+body {
+    background: black;
+    border: solid white;
+    border-radius: 30px;
+}
+
+.clock {
+    position: absolute;
+    color: whitesmoke;
+    font-size: 40px;
+    letter-spacing: 10px;
+    padding-top: 100px;
+    padding-right: 30px;
+    padding-left: 500px;
+    font-family: Impact;
+}
